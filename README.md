@@ -33,7 +33,7 @@ A Tampermonkey user script for **MissionChief** (`missionchief.com`) and **Leits
 
 OR
 
-go to (extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=143763d2-145d-46d4-81b1-88c31fce20d9) to install directly
+go to https://www.tampermonkey.net/script_installation.php#url=https://github.com/KitsuneKarama/missionchief-status-timers/raw/refs/heads/main/missionchief-timers.user.js to install directly
 ---
 
 ## How It Works
