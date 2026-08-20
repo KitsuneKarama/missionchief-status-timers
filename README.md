@@ -31,6 +31,9 @@ A Tampermonkey user script for **MissionChief** (`missionchief.com`) and **Leits
 3. Paste the `MissionChief Station Status Timers` code into the editor.
 4. Save the script and ensure it is enabled.
 
+OR
+
+go to (extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=143763d2-145d-46d4-81b1-88c31fce20d9) to install directly
 ---
 
 ## How It Works
